@@ -22,7 +22,20 @@ Hash search has been used for neighbour calculation, as it has a lower computati
 
 ### Results
 
-After performing the different calculations, the most important characteristics of all the particles were saved and by means of Realflow a mesh was created and texture was applied to the fluid. Different simulations have been carried out varying some characteristics of the fluid such as the number of particles, having between 2100 to 7000 total particles.
+After performing the different calculations, the most important characteristics of all the particles were saved and by means of Realflow a mesh was created and texture was applied to the fluid. Different simulations have been carried out varying some characteristics of the fluid such as the number of particles, having between 1600 to 7000 total particles.
+
+The following link shows the simulations obtained: https://youtu.be/13Xmbq8FV_s
 
 ## Screenshots
 
+Spiral Render
+![Cylinder Render](https://github.com/BorjaSBON/Fluid-Simulator/blob/main/Screenshots/Render%20Spiral.png?raw=true)
+
+Cylinder Render
+![Cylinder Render](https://github.com/BorjaSBON/Fluid-Simulator/blob/main/Screenshots/Render%20Cylinder.png?raw=true)
+
+Doble Cylinder Render
+![Cylinder Render](https://github.com/BorjaSBON/Fluid-Simulator/blob/main/Screenshots/Render%202%20Cylinder.png?raw=true)
+
+Sphere Render
+![Cylinder Render](https://github.com/BorjaSBON/Fluid-Simulator/blob/main/Screenshots/Render%20Sphere.png?raw=true)
